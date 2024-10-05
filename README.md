@@ -1,6 +1,6 @@
-# TaskMaster
+# TaskMan
 
-TaskMaster is a simple, mobile-friendly Progressive Web App (PWA) for efficient task management. It allows users to add, complete, and delete tasks with a clean and intuitive interface.
+TaskMan is a simple, mobile-friendly Progressive Web App (PWA) for efficient task management. It allows users to add, complete, and delete tasks with a clean and intuitive interface.
 
 ## Features
 
