@@ -13,7 +13,7 @@ TaskMan is a simple, mobile-friendly Progressive Web App (PWA) for efficient tas
 
 ## Live Demo
 
-You can try out TaskMaster here: [https://daniissac.com/task](https://daniissac.com/task)
+You can try out TaskMan here: [https://daniissac.com/task](https://daniissac.com/task)
 
 ## Technologies Used
 
