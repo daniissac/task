@@ -1,7 +1,7 @@
 {
-    "name": "TaskMaster",
-    "short_name": "TaskMaster",
-    "description": "Master your tasks with this simple and efficient todo list app",
+    "name": "TaskMan",
+    "short_name": "TaskMan",
+    "description": "Manage your tasks with this simple and efficient todo list app",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
